@@ -1,3 +1,57 @@
 [submodule "LoupGG"]
 	path = LoupGG
 	url = https://github.com/Nadochima/LoupGG
+[submodule "tfil"]
+	path = tfil
+	url = https://github.com/bull29/tfil
+[submodule "Impact"]
+	path = Impact
+	url = https://github.com/AwfulRanger/Impact
+[submodule "data-required"]
+	path = data-required
+	url = https://github.com/Zet0rz/data-required
+[submodule "GmodBloodsport"]
+	path = GmodBloodsport
+	url = https://github.com/LegendofRobbo/GmodBloodsport
+[submodule "coi"]
+	path = coi
+	url = https://github.com/disseminate/coi
+[submodule "gfodder"]
+	path = gfodder
+	url = https://github.com/mattkrins/gfodder
+[submodule "AttackOfTheMimics"]
+	path = AttackOfTheMimics
+	url = https://github.com/raubana/AttackOfTheMimics
+[submodule "Factories"]
+	path = Factories
+	url = https://github.com/Luabee/Factories
+[submodule "ships"]
+	path = ships
+	url = https://github.com/Thermadyle/ships
+[submodule "citadelshock"]
+	path = citadelshock
+	url = https://github.com/Zephruz/citadelshock
+[submodule "Impractical_Assasins"]
+	path = Impractical_Assasins
+	url = https://github.com/Velkon/Impractical_Assasins
+[submodule "brawl"]
+	path = brawl
+	url = https://github.com/chelog/brawl
+[submodule "gmodwarioware"]
+	path = gmodwarioware
+	url = https://github.com/sndrec/gmodwarioware
+[submodule "murder_maze"]
+	path = murder_maze
+	url = https://github.com/FANTYM/murder_maze/
+[submodule "jailbreak"]
+	path = jailbreak
+	url = https://github.com/clrksml/jailbreak
+[submodule "oresgyn"]
+	path = oresgyn
+	url = https://github.com/BadgerCode/oresgyn
+[submodule "crystalchaos"]
+	path = crystalchaos
+	url = https://github.com/NickSchleicher/crystalchaos
+[submodule "Survive-the-Night"]
+	path = Survive-the-Night
+	url = https://github.com/sweetlikecammy/Survive-the-Night
